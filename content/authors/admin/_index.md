@@ -6,10 +6,10 @@ bio: ""
 interests:
   - Algorithms
   - Distributed Systems
-  - Entrepreneurship
   - Software Engineering
   - Optimisation
   - Graph Theory
+  - Entrepreneurship
   - Emotional Intelligence
 social:
   - icon: github
