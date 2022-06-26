@@ -2,8 +2,7 @@
 title: Braddy Yeoh
 role: Software Development Engineer
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Algorithms
   - Distributed Systems
@@ -11,6 +10,7 @@ interests:
   - Software Engineering
   - Optimisation
   - Graph Theory
+  - Emotional Intelligence
 social:
   - icon: github
     icon_pack: fab
