@@ -31,6 +31,6 @@ superuser: true
 highlight_name: true
 ---
 
-Hi! Nice to meet you. 
+Hi! Nice to meet you. This site is a work in progress
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Braddy Yeoh CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
