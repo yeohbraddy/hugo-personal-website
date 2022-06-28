@@ -22,29 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Software Development Engineer
+    company: Amazon
+    company_url: ""
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Dublin
+    date_start: "2021-06"
+    date_end: ""
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing internal tools and customer APIs for the LDAP service that is core to AWS infrastructure
+        * Developing a Spring proxy to route writers depending on the traffic and the resources available
+        * Refactoring code to migrate the inhouse replication service from 1.0 to 2.0 in certain regions
+        * Participating in on-call duty to monitor and fix production issues
+        * Using IAAC to create pipelines to automate resource creation and deploy 
+        * Implementing logging to and setting up CloudWatch
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: SAP STAR Student
+    company: SAP
+    company_url: ""
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Dublin
+    date_start: "2019-05"
+    date_end: "2021-04"
+    description: SAP STAR intern where rotations were completed in Software Engineering for the SAP Analytics Cloud and Product Support for HANA and Fiori
 
 design:
-  columns: '2'
+  columns: "2"
 ---
