@@ -25,7 +25,7 @@ experience:
   - title: Software Development Engineer
     company: Amazon
     company_url: ""
-    company_logo: org-gc
+    company_logo: Amazon_logo
     location: Dublin
     date_start: "2021-05-31"
     date_end: ""
