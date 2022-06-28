@@ -32,12 +32,14 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Writing scripts to analyse logs to gain insight into traffic patterns to improve tools
-        * Developing a Spring proxy to route writers depending on the traffic and the resources available
+        * Writing Python scripts to analyse logs to gain insight into traffic patterns to improve tools
+        * Developing a Spring proxy to route internal Amazon customers writing to LDAP depending on the traffic and the resources available in the main hubs
         * Refactoring code to migrate the inhouse replication service from 1.0 to 2.0 in China region
         * Participating in on-call duty to monitor and fix production issues
-        * Using IAAC to create pipelines to automate resource creation and deploy 
-        * Implementing logging to set up CloudWatch, alarms, metrics, and dashboards
+        * Using IAAC to build out production and canary CI/CD environments for the write proxy where it had automated resource creation (AWS accounts, hostclasses, IAM roles, etc.) with staged rollouts, automated host patching, and CI checks. 
+        * Implementing logging to set up CloudWatch, alarms, metrics, and dashboards for the write proxy to monitor latency, availability, etc.
+        * Writing load tests of different write operations at various transactions per minute for the canary environment
+        * Working with system engineers to scale out the LDAP service to new regions
 
   - title: SAP STAR Student
     company: SAP
