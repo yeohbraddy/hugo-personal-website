@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: "Accomplish&shy;ments"
 subtitle:
 
 # Date format
@@ -23,31 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - certificate_url: https://www.credly.com/badges/ca2b74f2-c505-40a3-8df8-ed79ca4f89f1?source=linked_in_profile
+    date_end: ""
+    date_start: "2020-08-01"
+    description: "Validates that the candidate possesses the fundamental and core knowledge required of the SAP Cloud Platform profile"
+    organization: SAP
+    organization_url: https://www.sap.com/index.html
+    title: SAP Certified Development Associate - SAP Cloud Platform
+    url: ""
+  - certificate_url: https://www.credly.com/badges/ac73879c-3067-4dcf-be56-e7abb20b620b/linked_in_profile
+    date_end: ""
+    date_start: "2019-08-01"
+    description: Verifies that the candidate possesses the required knowledge in the area of the SAP HANA 2.0 (SPS03) for the profile of an SAP HANA technology consultant
+    organization: SAP
+    organization_url: https://www.sap.com/index.html
+    title: SAP Certified Technology Associate - SAP HANA 2.0 (SPS03)
+    url: ""
 
 design:
-  columns: '2'
+  columns: "2"
 ---
