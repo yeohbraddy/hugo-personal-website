@@ -32,12 +32,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing internal tools and customer APIs for the LDAP service that is core to AWS infrastructure
+        * Writing scripts to analyse logs to gain insight into traffic patterns to improve tools
         * Developing a Spring proxy to route writers depending on the traffic and the resources available
-        * Refactoring code to migrate the inhouse replication service from 1.0 to 2.0 in certain regions
+        * Refactoring code to migrate the inhouse replication service from 1.0 to 2.0 in China region
         * Participating in on-call duty to monitor and fix production issues
         * Using IAAC to create pipelines to automate resource creation and deploy 
-        * Implementing logging to and setting up CloudWatch
+        * Implementing logging to set up CloudWatch, alarms, metrics, and dashboards
 
   - title: SAP STAR Student
     company: SAP
