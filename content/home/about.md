@@ -8,4 +8,3 @@ weight: 20
 title: Biography
 subtitle: wetewtwetwerwer
 ---
-wefwefwefwEFWEFWEFWEFWE
