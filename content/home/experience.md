@@ -27,7 +27,7 @@ experience:
     company_url: ""
     company_logo: org-gc
     location: Dublin
-    date_start: "2021-06"
+    date_start: "2021-05-31"
     date_end: ""
     description: |2-
         Responsibilities include:
@@ -44,8 +44,8 @@ experience:
     company_url: ""
     company_logo: org-x
     location: Dublin
-    date_start: "2019-05"
-    date_end: "2021-04"
+    date_start: "2019-05-31"
+    date_end: "2021-04-30"
     description: SAP STAR intern where rotations were completed in Software Engineering for the SAP Analytics Cloud and Product Support for HANA and Fiori
 
 design:
