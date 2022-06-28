@@ -25,7 +25,7 @@ experience:
   - title: Software Development Engineer
     company: Amazon
     company_url: ""
-    company_logo: Amazon_logo
+    company_logo: amazon-2
     location: Dublin
     date_start: "2021-05-31"
     date_end: ""
@@ -42,7 +42,7 @@ experience:
   - title: SAP STAR Student
     company: SAP
     company_url: ""
-    company_logo: org-x
+    company_logo: sap-3
     location: Dublin
     date_start: "2019-05-31"
     date_end: "2021-04-30"
