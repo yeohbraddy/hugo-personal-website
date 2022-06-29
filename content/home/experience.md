@@ -40,6 +40,7 @@ experience:
         * Implementing logging to set up CloudWatch, alarms, metrics, and dashboards for the write proxy to monitor latency, availability, etc.
         * Writing load tests of different write operations at various transactions per minute for the canary environment
         * Working with system engineers to scale out the LDAP service to new regions
+        * Refactoring the internal credential management system to use the new standard credential management system
 
   - title: SAP STAR Student
     company: SAP
