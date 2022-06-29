@@ -7,8 +7,7 @@ date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
 title: Learning to Sparsify the Capacitated Vehicle Routing Problem Instances
-tags:
-  - Deep Learning
+tags: []
 links: []
 image:
   caption: ""
