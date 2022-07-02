@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url:
+    date_end: ""
+    date_start: "2022-04-01"
+    description: "Full scholarship for EIT Digital Masters in Data Science"
+    organization: EIT
+    organization_url: https://masterschool.eitdigital.eu/
+    title: EIT Digital Masters Scholarship
+    url: ""
   - certificate_url: https://www.credly.com/badges/ca2b74f2-c505-40a3-8df8-ed79ca4f89f1?source=linked_in_profile
     date_end: ""
     date_start: "2020-08-01"
