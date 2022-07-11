@@ -32,4 +32,4 @@ highlight_name: true
 ---
 Hi! Nice to meet you. This site is a work in progress
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/braddy-yeoh-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/braddy-yeoh-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
