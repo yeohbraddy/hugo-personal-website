@@ -7,8 +7,8 @@ url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-subtitle: Thesis on using classification to solve in- stances of a NP-hard
-  combinatorial opti- mization problem
+subtitle: Thesis on using classification to solve instances of a NP-hard
+  combinatorial optimization problem
 tags: []
 links:
   - url: https://csgitlab.ucd.ie/yeohbraddy/fyp-braddy
