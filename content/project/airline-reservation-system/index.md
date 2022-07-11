@@ -9,7 +9,7 @@ featured: false
 links:
   - url: https://github.com/yeohbraddy/airline-reservation-system
     name: Github
-    icon: github
+    icon: fa-github
 image:
   filename: featured
   focal_point: Smart
