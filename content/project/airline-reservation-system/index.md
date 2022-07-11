@@ -11,6 +11,7 @@ links:
   - url: https://github.com/yeohbraddy/airline-reservation-system
     name: GitHub Repo
     icon: fa-github
+    icon_pack: far
 image:
   filename: featured
   focal_point: Smart
