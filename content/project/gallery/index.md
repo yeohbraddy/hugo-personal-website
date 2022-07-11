@@ -8,7 +8,7 @@ featured: false
 links:
   - url: https://github.com/yeohbraddy/Gallery
     name: GitHub Repo
-    icon_pack: far
+    icon_pack: fab
     icon: github
 image:
   filename: featured
