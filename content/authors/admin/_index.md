@@ -18,6 +18,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/braddy-yeoh-945937152/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/braddy-yeoh-cv.pdf
 organizations:
   - name: Amazon
     url: ""
@@ -30,6 +33,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+
 Hi! Nice to meet you. This site is a work in progress
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/braddy-yeoh-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
