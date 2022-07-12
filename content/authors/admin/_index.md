@@ -18,9 +18,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/braddy-yeoh-945937152/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/braddy-yeoh-cv.pdf
 organizations:
   - name: Amazon
     url: ""
