@@ -63,6 +63,38 @@ item:
     organization_url: https://www.sap.com/index.html
     title: SAP Certified Technology Associate - SAP HANA 2.0 (SPS03)
     url: ""
+  - certificate_url:
+    date_end: ""
+    date_start: "2017-05-01"
+    description: Student of the Year
+    organization: St.Kilian's Community School
+    organization_url: https://www.stkilianscs.com/
+    title: Student of the Year
+    url: ""
+  - certificate_url:
+    date_end: ""
+    date_start: "2016-01-01"
+    description: Developed communicate, personal and physical skills for 26 weeks and then went on an adventure journey consisting of a 30km hike up in the Wicklow mountains
+    organization: Gaisce
+    organization_url: https://www.gaisce.ie/
+    title: Gaisce Silver
+    url: ""
+  - certificate_url:
+    date_end: ""
+    date_start: "2015-05-01"
+    description: Student of the Year
+    organization: St.Kilian's Community School
+    organization_url: https://www.stkilianscs.com/
+    title: Student of the Year
+    url: ""
+  - certificate_url:
+    date_end: ""
+    date_start: "2015-01-01"
+    description: Developed communicate, personal and physical skills for 26 weeks and then went on an adventure journey consisting of a 30km hike up in the Wicklow mountains
+    organization: Gaisce
+    organization_url: https://www.gaisce.ie/
+    title: Gaisce Bronze
+    url: ""
 
 design:
   columns: "2"
