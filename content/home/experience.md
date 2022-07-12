@@ -70,11 +70,12 @@ experience:
     location: Dublin
     date_start: "2019-05-31"
     date_end: "2021-04-30"
-    description: STAR stands for Student Training And Rotational. This is a special two year SAP Internship program for high performing students. I was selected for this program based on my excellent college results.
-
-I received the unique opportunity to combine academic studies with real industry experience. It allowed me to experience different business areas in SAP, take part in highly valuable soft skills training, and work with a wide range of technologies and tools. It provided me with a wide range of technical and professional training. I also received certifications in SAP technologies.
-
-I worked as a Product Support Engineer for SAP HANA and SAP Fiori and also worked as a Software Engineer on the SAP Analytics Cloud on the Smart Insights Service team.
+    description: |2-
+      STAR stands for Student Training And Rotational. This is a special two year SAP Internship program for high performing students. I was selected for this program based on my excellent college results.
+      
+      I received the unique opportunity to combine academic studies with real industry experience. It allowed me to experience different business areas in SAP, take part in highly valuable soft skills training, and work with a wide range of technologies and tools. It provided me with a wide range of technical and professional training. I also received certifications in SAP technologies.
+      
+      I worked as a Product Support Engineer for SAP HANA and SAP Fiori and also worked as a Software Engineer on the SAP Analytics Cloud on the Smart Insights Service team.
 
 design:
   columns: "2"
