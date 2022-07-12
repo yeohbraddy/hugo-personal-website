@@ -36,8 +36,16 @@ item:
     date_start: "2022-02-01"
     description: "Full scholarship for Erasmus Mundus in Security and Cloud Computing"
     organization: Erasmus Mundus
-    organization_url: https://masterschool.eitdigital.eu/
+    organization_url: https://www.secclo.eu/
     title: Erasmus Mundus SECCLO Scholarship
+    url: ""
+  - certificate_url:
+    date_end: ""
+    date_start: "2020-03-01"
+    description: "UCD School of Science Excellence in Mentoring"
+    organization: UCD
+    organization_url: https://www.ucd.ie/
+    title: UCD School of Science Excellence in Mentoring
     url: ""
   - certificate_url: https://www.credly.com/badges/ca2b74f2-c505-40a3-8df8-ed79ca4f89f1?source=linked_in_profile
     date_end: ""
