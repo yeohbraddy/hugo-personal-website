@@ -39,30 +39,6 @@ experience:
         * Writing load tests of different write operations at various transactions per minute for the canary environment
         * Working with system engineers to scale out the LDAP service to new regions
         * Refactoring the internal credential management system to use the new standard credential management system
-  - title: Software Engineer
-    company: SAP
-    company_url: ""
-    company_logo: sap-3
-    location: Dublin
-    date_start: "2020-03-01"
-    date_end: "2020-09-01"
-    description: |2-
-        • Backend Engineer for Smart Insights Service, working on SAP Analytics Cloud
-        • Focused on web development using React, Java Spring, Maven, Tomcat, Jenkins, PostgresSQL, and MySQL
-        • Worked in an Agile team 
-        • Wrote unit and integration tests using Junit and Mockito
-        • Used Docker to dockerized API tests to provide portability and eliminated the need for a V.M to run API tests
-        • Used Jenkins to build CI/CD pipelines 
-        • Wrote Robot tests (Selenium) to test services running on CloudFoundry and Neo cloud platforms
-        • Created various data models for both frontend and backend testing
-        • Used Spring and React to create a REST full-stack dashboard that displays API response times from tests which allowed the easy identification of regressions due to code changes
-        • Utilised Swagger to describe RESTful APIs
-        • Created a React application that generates an Amazon AWS Cloud Practitioner exam from a massive pool of questions
-        • Investigated features released to customers to ensure it was working as intended and recorded results
-        • Investigated test failures and documented findings
-        • Updating production systems with the latest WAR
-        • Learned the various microservices in SAP Analytics Cloud
-        • Participated in Java architecture design, test fiestas, feature discussions and code reviews"
   - title: SAP STAR Student
     company: SAP
     company_url: ""
@@ -76,7 +52,60 @@ experience:
       I received the unique opportunity to combine academic studies with real industry experience. It allowed me to experience different business areas in SAP, take part in highly valuable soft skills training, and work with a wide range of technologies and tools. It provided me with a wide range of technical and professional training. I also received certifications in SAP technologies.
       
       I worked as a Product Support Engineer for SAP HANA and SAP Fiori and also worked as a Software Engineer on the SAP Analytics Cloud on the Smart Insights Service team.
-
+  - title: Software Engineer
+    company: SAP
+    company_url: ""
+    company_logo: sap-3
+    location: Dublin
+    date_start: "2020-03-01"
+    date_end: "2020-09-01"
+    description: |2-
+        * Backend Engineer for Smart Insights Service, working on SAP Analytics Cloud
+        * Focused on web development using React, Java Spring, Maven, Tomcat, Jenkins, PostgresSQL, and MySQL
+        * Worked in an Agile team 
+        * Wrote unit and integration tests using Junit and Mockito
+        * Used Docker to dockerized API tests to provide portability and eliminated the need for a V.M to run API tests
+        * Used Jenkins to build CI/CD pipelines 
+        * Wrote Robot tests (Selenium) to test services running on CloudFoundry and Neo cloud platforms
+        * Created various data models for both frontend and backend testing
+        * Used Spring and React to create a REST full-stack dashboard that displays API response times from tests which allowed the easy identification of regressions due to code changes
+        * Utilised Swagger to describe RESTful APIs
+        * Created a React application that generates an Amazon AWS Cloud Practitioner exam from a massive pool of questions
+        * Investigated features released to customers to ensure it was working as intended and recorded results
+        * Investigated test failures and documented findings
+        * Updating production systems with the latest WAR
+        * Learned the various microservices in SAP Analytics Cloud
+        * Participated in Java architecture design, test fiestas, feature discussions and code reviews"
+  - title: Fiori Product Support Engineer
+    company: SAP
+    company_url: ""
+    company_logo: sap-3
+    location: Dublin
+    date_start: "2019-07-01"
+    date_end: "2019-09-01"
+    description: |2-
+        * Global Product Support for Fiori
+        * Work involved solving customers' Fiori issues relating to HTML, CSS, JavaScript, and SAPUI5 Library.
+        *	Resolved system and customer issues by troubleshooting and providing effective solutions by taking up to 5 incidents per day.
+        *	Tested product components to identify root causes of issues.
+        *	Escalated complex problems such as failure of interdependent nodes in large production environments to management for resolution.
+        *	Managed customer relationships by delivering prompt responses to questions.
+        *	Provided technical troubleshooting and problem solving for clients with installed equipment/system issues.
+  - title: HANA Product Support Engineer
+    company: SAP
+    company_url: ""
+    company_logo: sap-3
+    location: Dublin
+    date_start: "2019-05-01"
+    date_end: "2019-08-01"
+    description: |2-
+        * EMEA Product Support for HANA
+        * Work involved reading through logs, writing and analyzing SQL query performance, investigating system performance such as memory, CPU, and nodes
+        *	Resolved system and customer issues by troubleshooting and providing effective solutions by taking up to 5 incidents per day.
+        *	Tested product components to identify root causes of issues.
+        *	Escalated complex problems such as failure of interdependent nodes in large production environments to management for resolution.
+        *	Managed customer relationships by delivering prompt responses to questions.
+        *	Provided technical troubleshooting and problem solving for clients with installed equipment/system issues.
 design:
   columns: "2"
 ---
