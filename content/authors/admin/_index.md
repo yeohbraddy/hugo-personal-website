@@ -34,4 +34,4 @@ superuser: true
 highlight_name: true
 ---
 
-Hi! Nice to meet you. This site is a work in progress
+Hi! Nice to meet you. I have a huge passion for food and cooking, and I love travelling to learn about food and culture! I also love fitness so I spend a lot of time lifting, sports, and mindfulness practices! Learning and being productive are a few of my core values so I spend a lot of time reading, listening to various podcasts and talks, taking courses, coaching / mentoring, etc. I also love music, particularly singing and playing the guitar. I am also a fan of emotional intelligence so I digest content about it and participate in coaching sessions. Other than that I play games, watch movies, or chill with friends!
